@@ -9,7 +9,7 @@
     "ip": "Minecraftserverorsum.aternos.me",
     "port": 20247,
     "version": "1.20.1",
-    "try-creative": true
+    "try-creative": false
   },
   "position": {
     "enabled": true,
