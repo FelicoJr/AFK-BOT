@@ -9,7 +9,7 @@
     "ip": "Minecraftserverorsum.aternos.me",
     "port": 20247,
     "version": "1.20.1",
-    "try-creative": false
+    "try-creative": true
   },
   "position": {
     "enabled": true,
@@ -44,7 +44,7 @@
     "circle-walk": {
       "enabled": true,
       "radius": 4,
-      "speed": 3000
+      "speed": 3
     },
     "look-around": {
       "enabled": true,
